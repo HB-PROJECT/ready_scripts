@@ -4,9 +4,9 @@ from sys import argv
 
 port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
-sender_email = "aggressiveghosts@gmail.com"
+sender_email = "email"
 receiver_email = argv[1]
-password = "05082015Ayzere"
+password = "password"
 code = argv[2]
 
 
